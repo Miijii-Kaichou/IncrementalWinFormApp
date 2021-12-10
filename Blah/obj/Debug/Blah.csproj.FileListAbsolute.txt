@@ -1,0 +1,10 @@
+C:\Users\tclte\source\repos\Blah\obj\Debug\Blah.csprojAssemblyReference.cache
+C:\Users\tclte\source\repos\Blah\obj\Debug\Blah.Form1.resources
+C:\Users\tclte\source\repos\Blah\obj\Debug\Blah.Properties.Resources.resources
+C:\Users\tclte\source\repos\Blah\obj\Debug\Blah.csproj.GenerateResource.cache
+C:\Users\tclte\source\repos\Blah\obj\Debug\Blah.csproj.CoreCompileInputs.cache
+C:\Users\tclte\source\repos\Blah\bin\Debug\Blah.exe.config
+C:\Users\tclte\source\repos\Blah\bin\Debug\Blah.exe
+C:\Users\tclte\source\repos\Blah\bin\Debug\Blah.pdb
+C:\Users\tclte\source\repos\Blah\obj\Debug\Blah.exe
+C:\Users\tclte\source\repos\Blah\obj\Debug\Blah.pdb
